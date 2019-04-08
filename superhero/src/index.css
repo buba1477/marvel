@@ -50,8 +50,19 @@ body {
   margin-right: 5px;
 }
 
+div {
+  color: white;
+}
+
 img {
   border-radius: 15px;
   background: #00CC99;
+  margin-bottom: 5px;
 }
 
+.aquaMan {
+  margin-bottom: 10px;
+  text-align: center;
+  width: 90px;
+  text-color: w
+}
